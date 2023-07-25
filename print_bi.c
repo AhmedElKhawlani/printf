@@ -2,6 +2,7 @@
 
 /**
 *print_bi - fun that print binary num
+*Scripted by EL KHAWLANI Ahmed
 *@pa: points to the list of arguments
 *@pCount: pointer to counter
 *Return: 0
