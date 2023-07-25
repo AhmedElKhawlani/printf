@@ -3,6 +3,7 @@
 /**
  * print_hex - Prints hexadecimal representation of
  * an long int
+ *Scripted by EL KHAWLANI Ahmed
  * @num: num we want to covert
  * @pCount: Pointer to counter
  * Return:0
