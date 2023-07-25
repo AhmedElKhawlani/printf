@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *_putInt - fun that print an int
+*Scripted by EL KHAWLANI Ahmed
 *@num: the integer we want to print
 *@pCount:pointer to the counter to know num of int being printed
 */
