@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 * _strlen - get the len of the string
+*Scripted by EL KHAWLANI Ahmed
 * @s: the string
 * Return: the len
 */
