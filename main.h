@@ -7,6 +7,7 @@
 #include <stdio.h>
 /**
 * struct sp_char - sturct for the special character
+*Scripted by EL KHAWLANI Ahmed
 *@ch: symbole of the speacial character
 *@fun: pointer to fun to print the argurment
 */
