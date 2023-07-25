@@ -1,6 +1,7 @@
 #include "main.h"
 /**
 *postive_sign - fun to print the + flag
+*Scripted by EL KHAWLANI Ahmed
 *@flag: flag to can overwide the flags
 *@ch: the + char
 *@j: the index of the argument
