@@ -2,6 +2,7 @@
 /**
 *_putchar - fun that prints a char
 *@sp_ch: character we want to print on terminal
+*Scripted by EL KHAWLANI Ahmed
 *Return: -1 if there is error, 1 otherwise
 */
 int _putchar(char sp_ch)
